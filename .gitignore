@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Vagrant template
+# General
+.vagrant/
+
+# Log files (if you are creating logs in debug mode, uncomment this)
+# *.log
+
+.idea/.gitignore
+.idea/DevOps.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
