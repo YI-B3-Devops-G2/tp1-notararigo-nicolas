@@ -20,7 +20,7 @@ différentes lignes de commandes afin d'installer les modules
 nécessaires au bon fonctionnement du serveur. 
 
 Vous pouvez vous rendre sur le serveur via 
-[localost:3080](http://localost:3080)
+[localhost:3080](http://localhost:3080)
 
 ## Commandes supplémentaires
 
