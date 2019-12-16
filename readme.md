@@ -1,4 +1,8 @@
-# TP1 - Nicolas Notararigo
+# B3 Devops - TP 1
+
+## Info
+mail: nicolas.notararigo@ynov.com
+github_username: Neerfix
 
 ### Les fichiers du repo
 
